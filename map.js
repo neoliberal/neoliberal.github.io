@@ -1,12 +1,12 @@
 function popDefine(twit, uri){
   if (uri){
-    a = '<br><br><a href="' + uri + '">Meetup Page</a>'
+    a = '<br><br><a href="' + uri + '" target="_blank">Meetup Page</a>'
   }
   else{
     a = ""
   }
   if (twit){
-    b = '<br><br><a href="' + twit + '">@' + twit.split("/")[3] + '</a>'
+    b = '<br><br><a href="' + twit + '" target="_blank">@' + twit.split("/")[3] + '</a>'
   }
   else{
     b = ""
