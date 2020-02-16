@@ -14,7 +14,6 @@ function popDefine(twit, uri){
   return a+b
 }
 
-
 var chapters = L.geoJSON(pts, {
   onEachFeature: function(feature, layer){
     layer.bindPopup(
@@ -24,9 +23,9 @@ var chapters = L.geoJSON(pts, {
   }
 });
 
-var map = L.map('MAP').setMaxBounds(chapters.getBounds().pad(0.5)).fitBounds(chapters.getBounds().pad(0.2)).addLayer(chapters);
+var map = L.map('MAP').setMaxBounds(L.latLngBounds(L.latLng(-172.0,-57.0), L.latLng(-179.4,71.2))).fitBounds(chapters.getBounds().pad(0.2)).addLayer(chapters);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  noWrap: true
+  noWrap: false
 }).addTo(map);
