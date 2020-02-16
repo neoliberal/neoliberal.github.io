@@ -170,7 +170,7 @@ var pts = { "type": "FeatureCollection",
       "URL": "",
       "active": false
 			}
-		},
+		}/*,
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [144.9631, -37.8136]},
 		"properties": {
@@ -179,6 +179,6 @@ var pts = { "type": "FeatureCollection",
       "URL": "https://neoliberalproject.org/melbourne-neoliberals-registration",
       "active": true
 			}
-		},
+		},*/
 	]
 }
