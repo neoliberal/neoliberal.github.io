@@ -1,7 +1,7 @@
 var pts = { "type": "FeatureCollection",
 	"features": [
 		{ "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-77.0365, 38.8977]},
+		"geometry": {"type": "Point", "coordinates": [-77.0347, 38.8976]},
 		"properties": {
 			"Name": "Washington, DC, US",
 			"twitter": "",
@@ -73,7 +73,7 @@ var pts = { "type": "FeatureCollection",
 			}
 		},
     { "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-0.1278, 51.5074]},
+		"geometry": {"type": "Point", "coordinates": [-0.0927, 51.5090]},
 		"properties": {
 			"Name": "London, UK",
 			"twitter": "https://twitter.com/LondonNeolibs",
