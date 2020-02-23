@@ -21,7 +21,7 @@ var pts = { "type": "FeatureCollection",
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-122.4783, 37.8199]},
 		"properties": {
-			"Name": "San Francisco, CA, US <br> (YIMBY Neoliberal)",
+			"Name": "YIMBY Neoliberal<br>(San Francisco, CA, US)",
 			"twitter": "https://twitter.com/YIMBYNeoliberal",
       "URL": "https://neoliberalproject.org/san-francisco-neoliberals-registration",
       "active": true
@@ -168,7 +168,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Stockholm, SWE",
 			"twitter": "https://twitter.com/NeoliberalSe",
       "URL": "",
-      "active": true
+      "active": false
 			}
 		},
     { "type": "Feature",
@@ -177,7 +177,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Alberta, CAN",
 			"twitter": "https://twitter.com/neoliberalAB",
       "URL": "",
-      "active": true
+      "active": false
 			}
 		},
     { "type": "Feature",
@@ -186,7 +186,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Oklahoma City, OK, US",
 			"twitter": "https://twitter.com/OklahomaNeoLib1",
       "URL": "",
-      "active": true
+      "active": false
 			}
 		},
 		{ "type": "Feature",
@@ -204,7 +204,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Saskatchewan, CAN",
 			"twitter": "https://twitter.com/SNeoliberal",
       "URL": "",
-      "active": true
+      "active": false
 			}
 		},
 		{ "type": "Feature",
@@ -213,6 +213,15 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Quebec, CAN",
 			"twitter": "https://twitter.com/NeoliberalQc",
       "URL": "",
+      "active": false
+			}
+		},
+		{ "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [144.9631, -37.8136]},
+		"properties": {
+			"Name": "Melbourne, AUS",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/melbourne-neoliberals-registration",
       "active": true
 			}
 		},
