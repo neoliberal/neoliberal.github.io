@@ -163,6 +163,15 @@ var pts = { "type": "FeatureCollection",
 			}
 		},
     { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-122.4783, 37.8199]},
+		"properties": {
+			"Name": "YIMBY Neoliberal<br>(San Francisco, CA, US)",
+			"twitter": "https://twitter.com/YIMBYNeoliberal",
+      "URL": "https://neoliberalproject.org/san-francisco-neoliberals-registration",
+      "active": true
+			}
+		},
+    { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [18.0686, 59.3293]},
 		"properties": {
 			"Name": "Stockholm, SWE",
@@ -171,15 +180,17 @@ var pts = { "type": "FeatureCollection",
       "active": false
 			}
 		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-114.0719, 51.0447]},
 		"properties": {
-			"Name": "Alberta, CAN",
+			"Name": "Calgary, CAN",
 			"twitter": "https://twitter.com/neoliberalAB",
-      "URL": "",
+      "URL": "https://neoliberalproject.org/calgary-neoliberals-registration",
       "active": false
 			}
 		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-97.5164, 35.4676]},
 		"properties": {
