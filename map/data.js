@@ -87,7 +87,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Boston, MA, US",
 			"twitter": "",
       "URL": "https://neoliberalproject.org/boston-neoliberals-registration",
-      "active": false
+      "active": true
 			}
 		},
 		
@@ -112,7 +112,7 @@ var pts = { "type": "FeatureCollection",
 		},
 		
     { "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-37.5407, 77.4360]},
+		"geometry": {"type": "Point", "coordinates": [-77.4360, 37.5407]},
 		"properties": {
 			"Name": "Richmond, VA, US",
 			"twitter": "https://twitter.com/VANeoliberal",
@@ -132,6 +132,36 @@ var pts = { "type": "FeatureCollection",
 		},
 		
     { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-83.7430, 42.2808]},
+		"properties": {
+			"Name": "Ann Arbor, MI, US / University of Michigan",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/ann-arbor-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-80.8431, 35.2271]},
+		"properties": {
+			"Name": "Charlotte, NC, USA",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/charlotte-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-105.9378, 35.6870},
+		"properties": {
+			"Name": "Santa Fe, AZ, USA",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/santafe-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-86.7816, 36.1627]},
 		"properties": {
 			"Name": "Nashville, TN, US",
@@ -146,7 +176,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Atlanta, GA, US",
 			"twitter": "",
       "URL": "https://neoliberalproject.org/atlanta-neoliberals-registration",
-      "active": false
+      "active": true
 			}
 		},
     { "type": "Feature",
@@ -200,8 +230,8 @@ var pts = { "type": "FeatureCollection",
 		"properties": {
 			"Name": "Stockholm, SWE",
 			"twitter": "https://twitter.com/NeoliberalSe",
-      "URL": "",
-      "active": false
+      "URL": "https://neoliberalproject.org/stockholm-neoliberals-registration",
+      "active": true
 			}
 		},
 		
@@ -218,10 +248,10 @@ var pts = { "type": "FeatureCollection",
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-97.5164, 35.4676]},
 		"properties": {
-			"Name": "Oklahoma City, OK, US",
+			"Name": "Oklahoma State University, OK, US",
 			"twitter": "https://twitter.com/OklahomaNeoLib1",
-      "URL": "",
-      "active": false
+      "URL": "https://neoliberalproject.org/oklahoma-state-university-neoliberals-registration",
+      "active": true
 			}
 		},
 	{ "type": "Feature",
@@ -243,12 +273,12 @@ var pts = { "type": "FeatureCollection",
 			}
 		},
 		{ "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-71.2080, 46.8139]},
+		"geometry": {"type": "Point", "coordinates": [-73.5673, 45.5017]},
 		"properties": {
-			"Name": "Quebec, CAN",
-			"twitter": "https://twitter.com/NeoliberalQc",
+			"Name": "Montreal, QUE, CAN",
+			"twitter": "https://twitter.com/montrealneolib1",
       "URL": "",
-      "active": false
+      "active": true
 			}
 		},
 		{ "type": "Feature",
