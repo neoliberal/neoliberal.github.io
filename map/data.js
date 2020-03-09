@@ -331,7 +331,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-81.5494, 28.3747]
+				"coordinates": [-81.3792, 28.5383]
 			},
 			"properties": {
 				"Name": "Orlando, FL, US",
