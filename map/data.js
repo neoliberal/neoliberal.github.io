@@ -162,6 +162,26 @@ var pts = { "type": "FeatureCollection",
 		},
 		
     { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-83.0458, 42.3314]},
+		"properties": {
+			"Name": "Detroit, MI, USA",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-83.0458, 42.3314]},
+		"properties": {
+			"Name": "Detroit, MI, USA",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-86.7816, 36.1627]},
 		"properties": {
 			"Name": "Nashville, TN, US",
@@ -170,6 +190,17 @@ var pts = { "type": "FeatureCollection",
       "active": true
 			}
 		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-76.9378, 38.9897]},
+		"properties": {
+			"Name": "University of Maryland, College Park, MD, USA",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/university-of-maryland-neoliberals-registration",
+      "active": true
+			}
+		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-84.3880, 33.7490]},
 		"properties": {
