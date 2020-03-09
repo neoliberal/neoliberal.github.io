@@ -187,7 +187,7 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Calgary, CAN",
 			"twitter": "https://twitter.com/neoliberalAB",
       "URL": "https://neoliberalproject.org/calgary-neoliberals-registration",
-      "active": false
+      "active": true
 			}
 		},
 		
