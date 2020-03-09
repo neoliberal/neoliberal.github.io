@@ -152,7 +152,7 @@ var pts = { "type": "FeatureCollection",
 		},
 		
     { "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-105.9378, 35.6870},
+		"geometry": {"type": "Point", "coordinates": [-105.9378, 35.6870],
 		"properties": {
 			"Name": "Santa Fe, AZ, USA",
 			"twitter": "",
