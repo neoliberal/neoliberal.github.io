@@ -90,6 +90,7 @@ var pts = { "type": "FeatureCollection",
       "active": false
 			}
 		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-71.4128, 41.8240]},
 		"properties": {
@@ -99,6 +100,17 @@ var pts = { "type": "FeatureCollection",
       "active": true
 			}
 		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-106.6504, 35.0844]},
+		"properties": {
+			"Name": "Albuquerque, AZ, US",
+			"twitter": "https://twitter.com/NeoliberalNM",
+      "URL": "https://neoliberalproject.org/albuquerque-neoliberals-registration",
+      "active": true
+			}
+		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-86.7816, 36.1627]},
 		"properties": {
@@ -162,6 +174,7 @@ var pts = { "type": "FeatureCollection",
       "active": true
 			}
 		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-122.4783, 37.8199]},
 		"properties": {
@@ -171,6 +184,7 @@ var pts = { "type": "FeatureCollection",
       "active": true
 			}
 		},
+		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [18.0686, 59.3293]},
 		"properties": {
@@ -200,7 +214,7 @@ var pts = { "type": "FeatureCollection",
       "active": false
 			}
 		},
-		{ "type": "Feature",
+	{ "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-95.3698, 29.7604]},
 		"properties": {
 			"Name": "Houston, TX, US",
