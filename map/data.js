@@ -112,6 +112,26 @@ var pts = { "type": "FeatureCollection",
 		},
 		
     { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-37.5407, 77.4360]},
+		"properties": {
+			"Name": "Richmond, VA, US",
+			"twitter": "https://twitter.com/VANeoliberal",
+      "URL": "https://neoliberalproject.org/richmond-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-84.5555, 42.7325]},
+		"properties": {
+			"Name": "Lansing, MI, US / Michigan State University",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/lansing-neoliberals-registration",
+      "active": true
+			}
+		},
+		
+    { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-86.7816, 36.1627]},
 		"properties": {
 			"Name": "Nashville, TN, US",
@@ -171,16 +191,6 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Vancouver, BC, CAN",
 			"twitter": "https://twitter.com/neoliberalBC",
       "URL": "https://neoliberalproject.org/vancouver-neoliberals-registration",
-      "active": true
-			}
-		},
-		
-    { "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-122.4783, 37.8199]},
-		"properties": {
-			"Name": "YIMBY Neoliberal<br>(San Francisco, CA, US)",
-			"twitter": "https://twitter.com/YIMBYNeoliberal",
-      "URL": "https://neoliberalproject.org/san-francisco-neoliberals-registration",
       "active": true
 			}
 		},
