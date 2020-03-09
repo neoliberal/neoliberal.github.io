@@ -155,7 +155,7 @@ var pts = { "type": "FeatureCollection",
 		"geometry": {"type": "Point", "coordinates": [-105.9378, 35.6870]},
 		"properties": {
 			"Name": "Santa Fe, AZ, USA",
-			"twitter": "",
+			"twitter": "https://twitter.com/NeoliberalNM",
       "URL": "https://neoliberalproject.org/santafe-neoliberals-registration",
       "active": true
 			}
@@ -169,17 +169,7 @@ var pts = { "type": "FeatureCollection",
       "URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
       "active": true
 			}
-		},
-		
-    { "type": "Feature",
-		"geometry": {"type": "Point", "coordinates": [-83.0458, 42.3314]},
-		"properties": {
-			"Name": "Detroit, MI, USA",
-			"twitter": "",
-      "URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
-      "active": true
-			}
-		},
+		}
 		
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-86.7816, 36.1627]},
@@ -187,6 +177,16 @@ var pts = { "type": "FeatureCollection",
 			"Name": "Nashville, TN, US",
 			"twitter": "https://twitter.com/Neolib_Nash",
       "URL": "https://neoliberalproject.org/nashville-neoliberals-registration",
+      "active": true
+			}
+		},
+			
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-149.9003, 61.2181]},
+		"properties": {
+			"Name": "Anchorage, AK, US",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/anchorage-neoliberals-registration",
       "active": true
 			}
 		},
@@ -210,6 +210,27 @@ var pts = { "type": "FeatureCollection",
       "active": true
 			}
 		},
+			
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-93.2650, 44.9778]},
+		"properties": {
+			"Name": "Minneapolis, MN, US",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/minneapolis-neoliberals-registration",
+      "active": true
+			}
+		},
+			
+    { "type": "Feature",
+		"geometry": {"type": "Point", "coordinates": [-90.1994, 38.6270]},
+		"properties": {
+			"Name": "St. Louis, MO, US",
+			"twitter": "",
+      "URL": "https://neoliberalproject.org/st-louis-neoliberals-registration",
+      "active": true
+			}
+		},
+				
     { "type": "Feature",
 		"geometry": {"type": "Point", "coordinates": [-81.5494, 28.3747]},
 		"properties": {
@@ -308,7 +329,7 @@ var pts = { "type": "FeatureCollection",
 		"properties": {
 			"Name": "Montreal, QUE, CAN",
 			"twitter": "https://twitter.com/montrealneolib1",
-      "URL": "",
+      "URL": "https://neoliberalproject.org/montreal-neoliberals-registration",
       "active": true
 			}
 		},
