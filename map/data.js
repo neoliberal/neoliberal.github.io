@@ -152,7 +152,7 @@ var pts = {
 				"coordinates": [-106.6504, 35.0844]
 			},
 			"properties": {
-				"Name": "Albuquerque, AZ, US",
+				"Name": "Albuquerque, NM, US",
 				"twitter": "https://twitter.com/NeoliberalNM",
 				"URL": "https://neoliberalproject.org/albuquerque-neoliberals-registration",
 				"active": true
@@ -180,8 +180,8 @@ var pts = {
 				"coordinates": [-84.5555, 42.7325]
 			},
 			"properties": {
-				"Name": "Lansing, MI, US / Michigan State University",
-				"twitter": "",
+				"Name": "Lansing, MI, US<br>(Michigan State University)",
+				"twitter": "https://twitter.com/NeolibLansing",
 				"URL": "https://neoliberalproject.org/lansing-neoliberals-registration",
 				"active": true
 			}
@@ -194,7 +194,7 @@ var pts = {
 				"coordinates": [-83.7430, 42.2808]
 			},
 			"properties": {
-				"Name": "Ann Arbor, MI, US / University of Michigan",
+				"Name": "Ann Arbor, MI, US<br>(University of Michigan)",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/ann-arbor-neoliberals-registration",
 				"active": true
@@ -209,7 +209,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Charlotte, NC, USA",
-				"twitter": "",
+				"twitter": "https://twitter.com/CLTneoliberal",
 				"URL": "https://neoliberalproject.org/charlotte-neoliberals-registration",
 				"active": true
 			}
@@ -278,7 +278,7 @@ var pts = {
 				"coordinates": [-76.9378, 38.9897]
 			},
 			"properties": {
-				"Name": "University of Maryland, College Park, MD, USA",
+				"Name": "University of Maryland<br>(College Park, MD, US)",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/university-of-maryland-neoliberals-registration",
 				"active": true
@@ -361,7 +361,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Portland, OR, US",
-				"twitter": "",
+				"twitter": "https://twitter.com/NeoliberalPDX",
 				"URL": "https://neoliberalproject.org/portland-neoliberals-registration",
 				"active": true
 			}
@@ -428,7 +428,7 @@ var pts = {
 				"coordinates": [-97.5164, 35.4676]
 			},
 			"properties": {
-				"Name": "Oklahoma State University, OK, US",
+				"Name": "Oklahoma State University<br>(Stillwater, OK, US)",
 				"twitter": "https://twitter.com/OklahomaNeoLib1",
 				"URL": "https://neoliberalproject.org/oklahoma-state-university-neoliberals-registration",
 				"active": true
@@ -467,7 +467,7 @@ var pts = {
 				"coordinates": [-73.5673, 45.5017]
 			},
 			"properties": {
-				"Name": "Montreal, QUE, CAN",
+				"Name": "Montreal, QC, CAN",
 				"twitter": "https://twitter.com/montrealneolib1",
 				"URL": "https://neoliberalproject.org/montreal-neoliberals-registration",
 				"active": true
