@@ -208,7 +208,7 @@ var pts = {
 				"coordinates": [-80.8431, 35.2271]
 			},
 			"properties": {
-				"Name": "Charlotte, NC, USA",
+				"Name": "Charlotte, NC, US",
 				"twitter": "https://twitter.com/CLTneoliberal",
 				"URL": "https://neoliberalproject.org/charlotte-neoliberals-registration",
 				"active": true
@@ -222,7 +222,7 @@ var pts = {
 				"coordinates": [-105.9378, 35.6870]
 			},
 			"properties": {
-				"Name": "Santa Fe, AZ, USA",
+				"Name": "Santa Fe, NM, US",
 				"twitter": "https://twitter.com/NeoliberalNM",
 				"URL": "https://neoliberalproject.org/santafe-neoliberals-registration",
 				"active": true
@@ -236,7 +236,7 @@ var pts = {
 				"coordinates": [-83.0458, 42.3314]
 			},
 			"properties": {
-				"Name": "Detroit, MI, USA",
+				"Name": "Detroit, MI, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
 				"active": true
