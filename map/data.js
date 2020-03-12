@@ -414,7 +414,7 @@ var pts = {
 				"coordinates": [-114.0719, 51.0447]
 			},
 			"properties": {
-				"Name": "Calgary, CAN",
+				"Name": "Calgary, AB, CAN",
 				"twitter": "https://twitter.com/neoliberalAB",
 				"URL": "https://neoliberalproject.org/calgary-neoliberals-registration",
 				"active": true
