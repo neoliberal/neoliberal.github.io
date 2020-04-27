@@ -30,6 +30,42 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-96.7970, 32.7767]
+			},
+			"properties": {
+				"Name": "Dallas, TX, US",
+				"URL": "https://neoliberalproject.org/dallas-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.6734, 41.7658]
+			},
+			"properties": {
+				"Name": "Hartford, CT, US",
+				"URL": "https://neoliberalproject.org/hartford-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.1581, 39.7684]
+			},
+			"properties": {
+				"Name": "Indianapolis, IN, US",
+				"URL": "https://neoliberalproject.org/indianapolis-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-122.4783, 37.8199]
 			},
 			"properties": {
