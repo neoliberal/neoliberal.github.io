@@ -58,7 +58,8 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Indianapolis, IN, US",
-				"URL": "https://neoliberalproject.org/indianapolis-neoliberals-regisration",
+				"twitter": "https://twitter.com/indyneoliberals",
+				"URL": "https://neoliberalproject.org/indianapolis-neoliberals-registration",
 				"active": true
 			}
 		},
