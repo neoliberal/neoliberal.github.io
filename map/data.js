@@ -486,5 +486,18 @@ var pts = {
 				"active": true
 			}
 		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [103.8198, 1.3521]
+			},
+			"properties": {
+				"Name": "Singapore",
+				"twitter": "",
+				"URL": "",
+				"active": true
+			}
+		}
 	]
 }
