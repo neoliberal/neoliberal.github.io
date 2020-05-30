@@ -531,7 +531,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Singapore",
-				"twitter": "",
+				"twitter": "https://twitter.com/NeoliberalSG",
 				"URL": "",
 				"active": true
 			}
