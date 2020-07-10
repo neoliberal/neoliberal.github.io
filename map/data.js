@@ -54,7 +54,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-6.2603, -53.3498]
+				"coordinates": [-6.2603, 53.3498]
 			},
 			"properties": {
 				"Name": "Dublin, IE",
