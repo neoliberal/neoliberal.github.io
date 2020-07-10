@@ -30,6 +30,117 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-104.8214, 38.8339]
+			},
+			"properties": {
+				"Name": "Colorado Springs, CO, US",
+				"URL": "https://neoliberalproject.org/colorado-springs-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-58.3816, -34.6037]
+			},
+			"properties": {
+				"Name": "Buenos Aires, AR",
+				"URL": "https://neoliberalproject.org/buenos-aires-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-6.2603, -53.3498]
+			},
+			"properties": {
+				"Name": "Dublin, IE",
+				"URL": "https://neoliberalproject.org/dublin-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.9959, 40.4406]
+			},
+			"properties": {
+				"Name": "Pittsburgh, PA, US",
+				"twitter": "https://twitter.com/PittNeolibs",
+				"URL": "https://neoliberalproject.org/pittsburgh-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-94.5786, 39.0997]
+			},
+			"properties": {
+				"Name": "Kansas City, MO, US",
+				"twitter": "https://twitter.com/KCneolibs",
+				"URL": "https://neoliberalproject.org/kansas-city-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-99.1332, 19.4326]
+			},
+			"properties": {
+				"Name": "Ciudad de México, MX",
+				"twitter": "https://twitter.com/CDMXNeoliberal",
+				"URL": "https://neoliberalproject.org/mexico-city-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.6944, 41.4993]
+			},
+			"properties": {
+				"Name": "Cleveland, OH, US",
+				"URL": "https://neoliberalproject.org/cleveland-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.8599, 40.7982]
+			},
+			"properties": {
+				"Name": "Penn State University",
+				"URL": "https://neoliberalproject.org/penn-state-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.7497, 39.6837]
+			},
+			"properties": {
+				"Name": "University of Delaware",
+				"URL": "https://neoliberalproject.org/university-of-delaware-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-96.7970, 32.7767]
 			},
 			"properties": {
@@ -315,7 +426,7 @@ var pts = {
 				"coordinates": [-76.9378, 38.9897]
 			},
 			"properties": {
-				"Name": "University of Maryland<br>(College Park, MD, US)",
+				"Name": "University of Maryland",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/university-of-maryland-neoliberals-registration",
 				"active": true
@@ -532,7 +643,7 @@ var pts = {
 			"properties": {
 				"Name": "Singapore",
 				"twitter": "https://twitter.com/NeoliberalSG",
-				"URL": "",
+				"URL": "https://neoliberalproject.org/singapore-neoliberals",
 				"active": true
 			}
 		}
