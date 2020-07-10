@@ -30,6 +30,18 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-71.4548, 42.9956]
+			},
+			"properties": {
+				"Name": "Manchester, NH, US",
+				"URL": "https://neoliberalproject.org/manchester-nh-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-104.8214, 38.8339]
 			},
 			"properties": {
