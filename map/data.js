@@ -398,7 +398,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Detroit, MI, US",
-				"twitter": "",
+				"twitter": "https://twitter.com/detroitneolibs",
 				"URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
 				"active": true
 			}
