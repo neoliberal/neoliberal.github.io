@@ -70,6 +70,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Dublin, IE",
+				"twitter": "https://twitter.com/DNeoliberals",
 				"URL": "https://neoliberalproject.org/dublin-neoliberals",
 				"active": true
 			}
