@@ -611,6 +611,19 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-81.2453, 42.9849]
+			},
+			"properties": {
+				"Name": "London, ON, CAN",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/london-on-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-106.6700, 52.1332]
 			},
 			"properties": {
@@ -650,12 +663,62 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [103.8198, 1.3521]
+				"coordinates": [-96.3344, 30.6280]
 			},
 			"properties": {
-				"Name": "Singapore",
-				"twitter": "https://twitter.com/NeoliberalSG",
-				"URL": "https://neoliberalproject.org/singapore-neoliberals",
+				"Name": "Texas A&M, TX, US",
+				"twitter": "https://twitter.com/TamuNLP",
+				"URL": "https://neoliberalproject.org/texas-am-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.9065, 43.0389]
+			},
+			"properties": {
+				"Name": "Milwaukee, WI, US",
+				"twitter": "https://twitter.com/MKE_Neoliberal",
+				"URL": "https://neoliberalproject.org/milwaukee-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.5037, 38.0406]
+			},
+			"properties": {
+				"Name": "Lexington, KY, US",
+				"twitter": "https://twitter.com/LexNeoliberal",
+				"URL": "https://neoliberalproject.org/lexington-ky-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [21.0122, 52.2297]
+			},
+			"properties": {
+				"Name": "Warsaw, POL",
+				"URL": "https://neoliberalproject.org/warsaw-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-46.6333, -23.5505]
+			},
+			"properties": {
+				"Name": "São Paulo, BRA",
+				"URL": "https://neoliberalproject.org/sao-paulo-neoliberals-registration",
 				"active": true
 			}
 		}
