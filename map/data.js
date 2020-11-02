@@ -743,6 +743,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Bates College, USA",
+				"twitter": "https://twitter.com/BatesNeolibs",
 				"URL": "https://neoliberalproject.org/bates-college-neoliberals-registration",
 				"active": true
 			}
@@ -755,6 +756,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Albright College, USA",
+				"twitter": "https://twitter.com/AlbrightNeolibs",
 				"URL": "https://neoliberalproject.org/albright-college-neoliberals-registration",
 				"active": true
 			}
