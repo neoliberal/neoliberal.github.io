@@ -715,6 +715,126 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [13.4050, 52.5200]
+			},
+			"properties": {
+				"Name": "Berlin, DEU",
+				"URL": "https://neoliberalproject.org/berlin-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-43.1729, -22.9068]
+			},
+			"properties": {
+				"Name": "Rio De Janeiro, BRA",
+				"URL": "https://neoliberalproject.org/rio-de-janeiro-neoliberals-registrationn",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-70.2022, 44.1057]
+			},
+			"properties": {
+				"Name": "Bates College, USA",
+				"URL": "https://neoliberalproject.org/bates-college-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.9108, 40.3615]
+			},
+			"properties": {
+				"Name": "Albright College, USA",
+				"URL": "https://neoliberalproject.org/albright-college-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.9345, 41.2565]
+			},
+			"properties": {
+				"Name": "Omaha, NE, USA",
+				"URL": "https://neoliberalproject.org/omaha-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.0740, 33.4484]
+			},
+			"properties": {
+				"Name": "Phoenix, AZ, USA",
+				"URL": "https://neoliberalproject.org/phoenix-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.4012, 43.0731]
+			},
+			"properties": {
+				"Name": "UW-Madison, USA",
+				"URL": "https://neoliberalproject.org/uwmadison-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.8027, 36.1447]
+			},
+			"properties": {
+				"Name": "Vanderbilt, USA",
+				"URL": "https://neoliberalproject.org/vanderbilt-neoliberals",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.8910, 40.7608]
+			},
+			"properties": {
+				"Name": "Salt Lake City, UT, USA",
+				"URL": "https://neoliberalproject.org/salt-lake-city-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [151.2093, -33.8688]
+			},
+			"properties": {
+				"Name": "Sydney, AUS",
+				"URL": "https://neoliberalproject.org/sydney-neoliberals-registration",
+				"active": true
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-46.6333, -23.5505]
 			},
 			"properties": {
