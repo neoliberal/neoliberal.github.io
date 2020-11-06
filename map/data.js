@@ -10,7 +10,8 @@ var pts = {
 				"Name": "Washington, DC, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/washington-dc-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -23,7 +24,8 @@ var pts = {
 				"Name": "New York, NY, US",
 				"twitter": "https://twitter.com/NYC_Neoliberal",
 				"URL": "https://neoliberalproject.org/nyc-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -35,7 +37,8 @@ var pts = {
 			"properties": {
 				"Name": "Manchester, NH, US",
 				"URL": "https://neoliberalproject.org/manchester-nh-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -47,7 +50,8 @@ var pts = {
 			"properties": {
 				"Name": "Colorado Springs, CO, US",
 				"URL": "https://neoliberalproject.org/colorado-springs-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -59,7 +63,8 @@ var pts = {
 			"properties": {
 				"Name": "Buenos Aires, AR",
 				"URL": "https://neoliberalproject.org/buenos-aires-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -72,7 +77,8 @@ var pts = {
 				"Name": "Dublin, IE",
 				"twitter": "https://twitter.com/DNeoliberals",
 				"URL": "https://neoliberalproject.org/dublin-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -85,7 +91,8 @@ var pts = {
 				"Name": "Pittsburgh, PA, US",
 				"twitter": "https://twitter.com/PittNeolibs",
 				"URL": "https://neoliberalproject.org/pittsburgh-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -98,7 +105,8 @@ var pts = {
 				"Name": "Kansas City, MO, US",
 				"twitter": "https://twitter.com/KCneolibs",
 				"URL": "https://neoliberalproject.org/kansas-city-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -111,7 +119,8 @@ var pts = {
 				"Name": "Ciudad de México, MX",
 				"twitter": "https://twitter.com/CDMXNeoliberal",
 				"URL": "https://neoliberalproject.org/mexico-city-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -123,7 +132,8 @@ var pts = {
 			"properties": {
 				"Name": "Cleveland, OH, US",
 				"URL": "https://neoliberalproject.org/cleveland-neoliberals",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -135,7 +145,8 @@ var pts = {
 			"properties": {
 				"Name": "Penn State University",
 				"URL": "https://neoliberalproject.org/penn-state-neoliberals",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -147,7 +158,8 @@ var pts = {
 			"properties": {
 				"Name": "University of Delaware",
 				"URL": "https://neoliberalproject.org/university-of-delaware-neoliberals",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -159,7 +171,8 @@ var pts = {
 			"properties": {
 				"Name": "Dallas, TX, US",
 				"URL": "https://neoliberalproject.org/dallas-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -171,7 +184,8 @@ var pts = {
 			"properties": {
 				"Name": "Hartford, CT, US",
 				"URL": "https://neoliberalproject.org/hartford-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -184,7 +198,8 @@ var pts = {
 				"Name": "Indianapolis, IN, US",
 				"twitter": "https://twitter.com/indyneoliberals",
 				"URL": "https://neoliberalproject.org/indianapolis-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -197,7 +212,8 @@ var pts = {
 				"Name": "YIMBY Neoliberal<br>(San Francisco, CA, US)",
 				"twitter": "https://twitter.com/YIMBYNeoliberal",
 				"URL": "https://neoliberalproject.org/san-francisco-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -210,7 +226,8 @@ var pts = {
 				"Name": "Los Angeles, CA, US",
 				"twitter": "https://twitter.com/NeoliberalLa",
 				"URL": "https://neoliberalproject.org/los-angeles-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -223,7 +240,8 @@ var pts = {
 				"Name": "Philadelphia, PA, US",
 				"twitter": "https://twitter.com/NeolibPhilly",
 				"URL": "https://neoliberalproject.org/philadelphia-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -236,7 +254,8 @@ var pts = {
 				"Name": "Denver, CO, US",
 				"twitter": "https://twitter.com/DenverNeoliber1",
 				"URL": "https://neoliberalproject.org/denver-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -249,7 +268,8 @@ var pts = {
 				"Name": "Austin, TX, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/austin-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -262,7 +282,8 @@ var pts = {
 				"Name": "Toronto, ON, CAN",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/toronto-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -275,7 +296,8 @@ var pts = {
 				"Name": "London, UK",
 				"twitter": "https://twitter.com/LondonNeolibs",
 				"URL": "https://neoliberalproject.org/london-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -288,7 +310,8 @@ var pts = {
 				"Name": "Boston, MA, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/boston-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -302,7 +325,8 @@ var pts = {
 				"Name": "Providence, RI, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/providence-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -316,7 +340,8 @@ var pts = {
 				"Name": "Albuquerque, NM, US",
 				"twitter": "https://twitter.com/NeoliberalNM",
 				"URL": "https://neoliberalproject.org/albuquerque-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -330,7 +355,8 @@ var pts = {
 				"Name": "Richmond, VA, US",
 				"twitter": "https://twitter.com/VANeoliberal",
 				"URL": "https://neoliberalproject.org/richmond-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -344,7 +370,8 @@ var pts = {
 				"Name": "Lansing, MI, US<br>(Michigan State University)",
 				"twitter": "https://twitter.com/NeolibLansing",
 				"URL": "https://neoliberalproject.org/lansing-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 
@@ -358,7 +385,8 @@ var pts = {
 				"Name": "Ann Arbor, MI, US<br>(University of Michigan)",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/ann-arbor-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 
@@ -372,7 +400,8 @@ var pts = {
 				"Name": "Charlotte, NC, US",
 				"twitter": "https://twitter.com/CLTneoliberal",
 				"URL": "https://neoliberalproject.org/charlotte-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -386,7 +415,8 @@ var pts = {
 				"Name": "Santa Fe, NM, US",
 				"twitter": "https://twitter.com/NeoliberalNM",
 				"URL": "https://neoliberalproject.org/santafe-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -400,7 +430,8 @@ var pts = {
 				"Name": "Detroit, MI, US",
 				"twitter": "https://twitter.com/detroitneolibs",
 				"URL": "https://neoliberalproject.org/detroit-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -414,7 +445,8 @@ var pts = {
 				"Name": "Nashville, TN, US",
 				"twitter": "https://twitter.com/Neolib_Nash",
 				"URL": "https://neoliberalproject.org/nashville-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -428,7 +460,8 @@ var pts = {
 				"Name": "Anchorage, AK, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/anchorage-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -442,7 +475,8 @@ var pts = {
 				"Name": "University of Maryland",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/university-of-maryland-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 
@@ -456,7 +490,8 @@ var pts = {
 				"Name": "Atlanta, GA, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/atlanta-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -470,7 +505,8 @@ var pts = {
 				"Name": "Minneapolis, MN, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/minneapolis-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -484,7 +520,8 @@ var pts = {
 				"Name": "St. Louis, MO, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/st-louis-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -498,7 +535,8 @@ var pts = {
 				"Name": "Orlando, FL, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/orlando-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -511,7 +549,8 @@ var pts = {
 				"Name": "Chicago, IL, US",
 				"twitter": "https://twitter.com/ChiNeoliberal",
 				"URL": "https://neoliberalproject.org/chicago-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -524,7 +563,8 @@ var pts = {
 				"Name": "Portland, OR, US",
 				"twitter": "https://twitter.com/NeoliberalPDX",
 				"URL": "https://neoliberalproject.org/portland-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -537,7 +577,8 @@ var pts = {
 				"Name": "Seattle, WA, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/seattle-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -550,7 +591,8 @@ var pts = {
 				"Name": "Vancouver, BC, CAN",
 				"twitter": "https://twitter.com/neoliberalBC",
 				"URL": "https://neoliberalproject.org/vancouver-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -564,7 +606,8 @@ var pts = {
 				"Name": "Stockholm, SWE",
 				"twitter": "https://twitter.com/NeoliberalSe",
 				"URL": "https://neoliberalproject.org/stockholm-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -578,7 +621,8 @@ var pts = {
 				"Name": "Calgary, AB, CAN",
 				"twitter": "https://twitter.com/neoliberalAB",
 				"URL": "https://neoliberalproject.org/calgary-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 
@@ -592,7 +636,8 @@ var pts = {
 				"Name": "Oklahoma State University<br>(Stillwater, OK, US)",
 				"twitter": "https://twitter.com/OklahomaNeoLib1",
 				"URL": "https://neoliberalproject.org/oklahoma-state-university-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -605,7 +650,8 @@ var pts = {
 				"Name": "Houston, TX, US",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/houston-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -618,7 +664,8 @@ var pts = {
 				"Name": "London, ON, CAN",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/london-on-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -631,7 +678,8 @@ var pts = {
 				"Name": "Saskatchewan, CAN",
 				"twitter": "https://twitter.com/SNeoliberal",
 				"URL": "",
-				"active": false
+				"active": false,
+				"uni": false
 			}
 		},
 		{
@@ -644,7 +692,8 @@ var pts = {
 				"Name": "Montreal, QC, CAN",
 				"twitter": "https://twitter.com/montrealneolib1",
 				"URL": "https://neoliberalproject.org/montreal-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -657,7 +706,8 @@ var pts = {
 				"Name": "Melbourne, AUS",
 				"twitter": "",
 				"URL": "https://neoliberalproject.org/melbourne-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -670,7 +720,8 @@ var pts = {
 				"Name": "Texas A&M, TX, US",
 				"twitter": "https://twitter.com/TamuNLP",
 				"URL": "https://neoliberalproject.org/texas-am-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -683,7 +734,8 @@ var pts = {
 				"Name": "Milwaukee, WI, US",
 				"twitter": "https://twitter.com/MKE_Neoliberal",
 				"URL": "https://neoliberalproject.org/milwaukee-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -696,7 +748,8 @@ var pts = {
 				"Name": "Lexington, KY, US",
 				"twitter": "https://twitter.com/LexNeoliberal",
 				"URL": "https://neoliberalproject.org/lexington-ky-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -708,7 +761,8 @@ var pts = {
 			"properties": {
 				"Name": "Warsaw, POL",
 				"URL": "https://neoliberalproject.org/warsaw-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -720,7 +774,8 @@ var pts = {
 			"properties": {
 				"Name": "Berlin, DEU",
 				"URL": "https://neoliberalproject.org/berlin-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -732,7 +787,8 @@ var pts = {
 			"properties": {
 				"Name": "Rio De Janeiro, BRA",
 				"URL": "https://neoliberalproject.org/rio-de-janeiro-neoliberals-registrationn",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -745,7 +801,8 @@ var pts = {
 				"Name": "Bates College, USA",
 				"twitter": "https://twitter.com/BatesNeolibs",
 				"URL": "https://neoliberalproject.org/bates-college-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -758,7 +815,8 @@ var pts = {
 				"Name": "Albright College, USA",
 				"twitter": "https://twitter.com/AlbrightNeolibs",
 				"URL": "https://neoliberalproject.org/albright-college-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -770,7 +828,8 @@ var pts = {
 			"properties": {
 				"Name": "Omaha, NE, USA",
 				"URL": "https://neoliberalproject.org/omaha-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -782,7 +841,8 @@ var pts = {
 			"properties": {
 				"Name": "Phoenix, AZ, USA",
 				"URL": "https://neoliberalproject.org/phoenix-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -794,7 +854,8 @@ var pts = {
 			"properties": {
 				"Name": "UW-Madison, USA",
 				"URL": "https://neoliberalproject.org/uwmadison-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -806,7 +867,8 @@ var pts = {
 			"properties": {
 				"Name": "Vanderbilt, USA",
 				"URL": "https://neoliberalproject.org/vanderbilt-neoliberals",
-				"active": true
+				"active": true,
+				"uni": true
 			}
 		},
 		{
@@ -818,7 +880,8 @@ var pts = {
 			"properties": {
 				"Name": "Salt Lake City, UT, USA",
 				"URL": "https://neoliberalproject.org/salt-lake-city-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -830,7 +893,8 @@ var pts = {
 			"properties": {
 				"Name": "Sydney, AUS",
 				"URL": "https://neoliberalproject.org/sydney-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		},
 		{
@@ -842,7 +906,8 @@ var pts = {
 			"properties": {
 				"Name": "São Paulo, BRA",
 				"URL": "https://neoliberalproject.org/sao-paulo-neoliberals-registration",
-				"active": true
+				"active": true,
+				"uni": false
 			}
 		}
 	]
