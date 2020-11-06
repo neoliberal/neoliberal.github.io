@@ -33,7 +33,7 @@ var chapters = L.geoJSON(pts, {
 
 var map = L.map('MAP', {maxZoom: 8, minZoom: 2}).setMaxBounds(L.latLngBounds(L.latLng(100,179.4), L.latLng(-57.0,-172.0))).fitBounds(chapters.getBounds().pad(0.0)).addLayer(chapters);
 
-L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZ3VlcmlsbGVybyIsImEiOiJjazcwcTRvNWUwMTVhM2VuNnd2eW9rMnV4In0.yJdGmpixRrSx-1Ppzz7u8A', {
+L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZ3VlcmlsbGVybyIsImEiOiJja2g2bmhuZDIwMG85MndybXo1OGE3OWhqIn0.wVTGMiNsncWf2pZrBkG9CQ', {
   attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
   noWrap: false
 }).addTo(map);
