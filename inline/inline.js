@@ -43,3 +43,12 @@ L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/256/{z}/{
   attribution: 'Basemap © <a href="https://www.mapbox.com/about/maps/">Mapbox</a> and © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> | <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>',
   noWrap: false
 }).addTo(map);
+
+var chapterTypes = {
+    "City chapters": chapters,
+    "University chapters": unichapters
+};
+
+var bm ={}
+
+L.control.layers(bm, chapterTypes,{collapsed: false}).addTo(map);
