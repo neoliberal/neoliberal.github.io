@@ -901,6 +901,32 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
+				"coordinates": [-93.6250, 41.5868]
+			},
+			"properties": {
+				"Name": "Des Moines, IA, USA",
+				"URL": "https://neoliberalproject.org/des-moines-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.1611, 32.7157]
+			},
+			"properties": {
+				"Name": "San Diego, CA, USA",
+				"URL": "https://neoliberalproject.org/san-diego-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
 				"coordinates": [-46.6333, -23.5505]
 			},
 			"properties": {
