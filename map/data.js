@@ -959,7 +959,7 @@ var pts = {
 			"properties": {
 				"Name": "Cleveland, Ohio, US",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/cleveland-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
