@@ -935,6 +935,104 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
-		}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [23.70605, 90.47172]
+			},
+			"properties": {
+				"Name": "Dhaka, Bangladesh",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [41.499495, -81.695409]
+			},
+			"properties": {
+				"Name": "Cleveland, Ohio, US",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.76168, -80.19179]
+			},
+			"properties": {
+				"Name": "Miami, Florida, US",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [44.426767, 26.102538]
+			},
+			"properties": {
+				"Name": "Bucharest, Romania",
+				"twitter": "https://twitter.com/RoNeolibs",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [38.544907, -121.740517]
+			},
+			"properties": {
+				"Name": "University of California - Davis",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": true
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [45.42153, -75.697193]
+			},
+			"properties": {
+				"Name": "Ottawa, Ontario, Canada",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.032969, 121.565418]
+			},
+			"properties": {
+				"Name": "Taipei, Taiwan",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/",
+				"active": true,
+				"uni": false
+			}
+		},
 	]
 }
