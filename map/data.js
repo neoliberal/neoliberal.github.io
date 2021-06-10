@@ -945,7 +945,7 @@ var pts = {
 			"properties": {
 				"Name": "Dhaka, Bangladesh",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/dhaka-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
@@ -973,7 +973,7 @@ var pts = {
 			"properties": {
 				"Name": "Miami, Florida, US",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/miami-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
@@ -985,9 +985,9 @@ var pts = {
 				"coordinates": [44.426767, 26.102538]
 			},
 			"properties": {
-				"Name": "Bucharest, Romania",
+				"Name": "Romania",
 				"twitter": "https://twitter.com/RoNeolibs",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/romania-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
@@ -1001,7 +1001,7 @@ var pts = {
 			"properties": {
 				"Name": "University of California - Davis",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/uc-davis-neoliberals-registration",
 				"active": true,
 				"uni": true
 			}
@@ -1015,7 +1015,7 @@ var pts = {
 			"properties": {
 				"Name": "Ottawa, Ontario, Canada",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/ottawa-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
@@ -1029,9 +1029,23 @@ var pts = {
 			"properties": {
 				"Name": "Taipei, Taiwan",
 				"twitter": "",
-				"URL": "https://neoliberalproject.org/",
+				"URL": "https://neoliberalproject.org/taipei-neoliberals-registration",
 				"active": true,
 				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.0347, 38.8976]
+			},
+			"properties": {
+				"Name": "American University, US",
+				"twitter": "",
+				"URL": "https://neoliberalproject.org/american-university-neoliberals-registration",
+				"active": true,
+				"uni": true
 			}
 		},
 	]
