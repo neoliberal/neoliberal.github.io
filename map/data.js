@@ -940,7 +940,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [23.70605, 90.47172]
+				"coordinates": [90.47172, 23.70605]
 			},
 			"properties": {
 				"Name": "Dhaka, Bangladesh",
@@ -954,7 +954,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [41.499495, -81.695409]
+				"coordinates": [-81.695409, 41.499495]
 			},
 			"properties": {
 				"Name": "Cleveland, Ohio, US",
@@ -968,7 +968,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [25.76168, -80.19179]
+				"coordinates": [-80.19179, 25.76168]
 			},
 			"properties": {
 				"Name": "Miami, Florida, US",
@@ -982,7 +982,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [44.426767, 26.102538]
+				"coordinates": [26.102538, 44.426767]
 			},
 			"properties": {
 				"Name": "Romania",
@@ -996,7 +996,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [38.544907, -121.740517]
+				"coordinates": [-121.740517, 38.544907]
 			},
 			"properties": {
 				"Name": "University of California - Davis",
@@ -1010,7 +1010,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [45.42153, -75.697193]
+				"coordinates": [-75.697193, 45.42153]
 			},
 			"properties": {
 				"Name": "Ottawa, Ontario, Canada",
@@ -1024,7 +1024,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [25.032969, 121.565418]
+				"coordinates": [121.565418, 25.032969]
 			},
 			"properties": {
 				"Name": "Taipei, Taiwan",
