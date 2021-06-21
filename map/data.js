@@ -266,7 +266,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Austin, TX, US",
-				"twitter": "",
+				"twitter": "https://twitter.com/atx_neoliberals",
 				"URL": "https://neoliberalproject.org/austin-neoliberals-registration",
 				"active": true,
 				"uni": false
@@ -280,7 +280,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Toronto, ON, CAN",
-				"twitter": "",
+				"twitter": "https://twitter.com/TorontoNeolib",
 				"URL": "https://neoliberalproject.org/toronto-neoliberals-registration",
 				"active": true,
 				"uni": false
@@ -773,6 +773,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Berlin, DEU",
+				"twitter": "https://twitter.com/NeolibBerlin"
 				"URL": "https://neoliberalproject.org/berlin-neoliberals-registration",
 				"active": true,
 				"uni": false
