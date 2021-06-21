@@ -1043,8 +1043,21 @@ var pts = {
 			},
 			"properties": {
 				"Name": "American University, US",
-				"twitter": "",
+				"twitter": "https://twitter.com/auneoliberals",
 				"URL": "https://neoliberalproject.org/american-university-neoliberals-registration",
+				"active": true,
+				"uni": true
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.505714, 42.3685658]
+			},
+			"properties": {
+				"Name": "UMass - Amherst",
+				"URL": "https://neoliberalproject.org/umass-amherst-neoliberals-registration",
 				"active": true,
 				"uni": true
 			}
