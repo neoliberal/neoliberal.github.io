@@ -773,7 +773,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Berlin, DEU",
-				"twitter": "https://twitter.com/NeolibBerlin"
+				"twitter": "https://twitter.com/NeolibBerlin",
 				"URL": "https://neoliberalproject.org/berlin-neoliberals-registration",
 				"active": true,
 				"uni": false
