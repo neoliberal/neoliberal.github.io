@@ -905,8 +905,8 @@ var pts = {
 				"coordinates": [-93.6250, 41.5868]
 			},
 			"properties": {
-				"Name": "Des Moines, IA, USA",
-				"URL": "https://neoliberalproject.org/des-moines-neoliberals-registration",
+				"Name": "Iowa, USA",
+				"URL": "https://neoliberalproject.org/iowa-neoliberals-registration",
 				"active": true,
 				"uni": false
 			}
@@ -959,7 +959,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Cleveland, Ohio, US",
-				"twitter": "",
+				"twitter": "https://twitter.com/ClevelandNeolib",
 				"URL": "https://neoliberalproject.org/cleveland-neoliberals-registration",
 				"active": true,
 				"uni": false
@@ -1060,6 +1060,19 @@ var pts = {
 				"URL": "https://neoliberalproject.org/umass-amherst-neoliberals-registration",
 				"active": true,
 				"uni": true
+			}
+		},
+		      {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.998794, 39.961176]
+			},
+			"properties": {
+				"Name": "Columbus, Ohio, US",
+				"twitter": "https://twitter.com/CbusNeoLiberal",
+				"URL": "https://neoliberalproject.org/columbus-neoliberals-registration
+				"uni": false
 			}
 		},
 	]
