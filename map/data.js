@@ -1071,7 +1071,7 @@ var pts = {
 			"properties": {
 				"Name": "Columbus, Ohio, US",
 				"twitter": "https://twitter.com/CbusNeoLiberal",
-				"URL": "https://neoliberalproject.org/columbus-neoliberals-registration
+				"URL": "https://neoliberalproject.org/columbus-neoliberals-registration",
 				"uni": false
 			}
 		},
