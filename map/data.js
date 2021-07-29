@@ -1075,5 +1075,31 @@ var pts = {
 				"uni": false
 			}
 		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-121.8525852, 37.3504209]
+			},
+			"properties": {
+				"Name": "Silicon Valley, CA, US",
+				"URL": "https://neoliberalproject.org/silicon-valley-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.4971112386038, 38.0507572068808]
+			},
+			"properties": {
+				"Name": "Charlottesville, VA, US",
+				"URL": "https://neoliberalproject.org/charlottesville-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		},
 	]
 }
