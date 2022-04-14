@@ -1101,5 +1101,16 @@ var pts = {
 				"uni": false
 			}
 		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.898621, 35.994034]
+		     "properties": {
+				"Name": "Raleigh/Durham, NC, US",
+				"URL": "https://neoliberalproject.org/raleigh-durham-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
 	]
 }
