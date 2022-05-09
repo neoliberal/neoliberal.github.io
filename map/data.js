@@ -1111,6 +1111,29 @@ var pts = {
 				"URL": "https://neoliberalproject.org/raleigh-durham-neoliberals-registration",
 				"active": true,
 				"uni": false
+			},
+			     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-98.49461, 29.42458]
+			},
+			"properties": {
+				"Name": "San Antonio, Texas, US",
+				"URL": "https://neoliberalproject.org/san-antonio-neoliberals-registration",
+				"uni": false
+			}
+		},
+			{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.517713696575343, 52.11242395]
+			},
+			"properties": {
+				"Name": "Netherlands",
+				"URL": "https://neoliberalproject.org/san-antonio-neoliberals-registration",
+				"uni": false
 			}
 	]
 }
