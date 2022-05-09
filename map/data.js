@@ -1132,8 +1132,19 @@ var pts = {
 			},
 			"properties": {
 				"Name": "Netherlands",
-				"URL": "https://neoliberalproject.org/san-antonio-neoliberals-registration",
+				"URL": "https://neoliberalproject.org/netherlands-neoliberals-registration",
 				"uni": false
-			}
+			},
+				{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [42.64741,23.37415]
+			},
+			"properties": {
+				"Name": "Sofia, Bulgaria",
+				"URL": "https://neoliberalproject.org/sofia-bulgaria-neoliberals-registration",
+				"uni": false
+			},
 	]
 }
