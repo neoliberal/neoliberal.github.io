@@ -1121,6 +1121,7 @@ var pts = {
 			"properties": {
 				"Name": "San Antonio, Texas, US",
 				"URL": "https://neoliberalproject.org/san-antonio-neoliberals-registration",
+				"active": true,
 				"uni": false
 			}
 		},
@@ -1133,6 +1134,7 @@ var pts = {
 			"properties": {
 				"Name": "Netherlands",
 				"URL": "https://neoliberalproject.org/netherlands-neoliberals-registration",
+				"active": true,	
 				"uni": false
 			},
 				{
@@ -1144,6 +1146,7 @@ var pts = {
 			"properties": {
 				"Name": "Sofia, Bulgaria",
 				"URL": "https://neoliberalproject.org/sofia-bulgaria-neoliberals-registration",
+				"active": true,	
 				"uni": false
 			},
 	]
