@@ -1152,6 +1152,18 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
-		}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [4.347767, 50.879858]
+			},
+			"properties": {
+				"Name": "Belgium",
+				"URL": "https://neoliberalproject.org/belgium-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
 	]
 }
