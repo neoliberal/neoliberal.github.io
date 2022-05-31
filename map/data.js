@@ -1144,7 +1144,7 @@ var pts = {
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [42.64741, 23.37415]
+				"coordinates": [23.37415, 42.64741]
 			},
 			"properties": {
 				"Name": "Sofia, Bulgaria",
