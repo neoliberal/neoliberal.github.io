@@ -1165,5 +1165,6 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
+        }
 	]
-}
+};
