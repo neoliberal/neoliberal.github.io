@@ -1165,6 +1165,33 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
-        }
+        },
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.121, 42.407]
+			},
+			"properties": {
+				"Name": "Tufts University, US",
+				"twitter": "https://twitter.com/TuftsNewLiberal",
+				"URL": "https://neoliberalproject.org/tufts-univ-neoliberals-registration",
+				"active": true,
+				"uni": true
+			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [6.899242, 51.040924]
+			},
+			"properties": {
+				"Name": "Rhineland",
+				"URL": "https://neoliberalproject.org/rhineland-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		}
 	]
 };
