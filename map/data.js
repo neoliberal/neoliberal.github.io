@@ -294,7 +294,7 @@ var pts = {
 			},
 			"properties": {
 				"Name": "London, UK",
-				"twitter": "https://twitter.com/LondonNeolibs",
+				"twitter": "https://twitter.com/LondonNewLibs",
 				"URL": "https://neoliberalproject.org/london-neoliberals-registration",
 				"active": true,
 				"uni": false
