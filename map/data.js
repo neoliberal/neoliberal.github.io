@@ -1192,6 +1192,19 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.46607, 28.00587]
+			},
+			"properties": {
+				"Name": "Tampa Bay",
+				"URL": "https://neoliberalproject.org/tampa-bay-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
 		}
 	]
 };
