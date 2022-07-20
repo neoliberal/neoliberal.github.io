@@ -1205,6 +1205,19 @@ var pts = {
 				"active": true,
 				"uni": false
 			}
-		}
+		},
+		     {
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.734459, 40.231389]
+			},
+			"properties": {
+				"Name": "New Jersey",
+				"URL": "https://neoliberalproject.org/new-jersey-neoliberals-registration",
+				"active": true,
+				"uni": false
+			}
+		},
 	]
 };
